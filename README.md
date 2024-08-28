@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/solana-turbin3/blazingguns/">
-    <img src="https://github.com/solana-turbin3/blazingguns//blob/main/media/logos/young-guns.png?raw=true" alt="Cascade logo" width="300" />
+    <img src="https://github.com/solana-turbin3/blazingguns//blob/main/media/logos/young-guns.jpg?raw=true" alt="Cascade logo" width="300" />
   </a>
 </p>
 
