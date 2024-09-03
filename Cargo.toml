@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+solana-sdk = "2.0.0"
+solana-client = "2.0.0"
+anyhow = "1.0.86"
